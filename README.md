@@ -15,23 +15,22 @@
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrilinard&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=cc0000&icon_color=cc0000&border_color=cc0000&ring_color=cc0000"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrilinard&layout=compact&langs_count=8&theme=dark&title_color=cc0000&border_color=cc0000"/>
+  <a href="https://github.com/Gabrilinard">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabrilinard&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=cc0000&icon_color=cc0000&border_color=cc0000"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabrilinard&layout=compact&langs_count=8&theme=dark&title_color=cc0000&border_color=cc0000"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrilinard&theme=dark&ring=cc0000&fire=cc0000&currStreakLabel=cc0000&sideLabels=cc0000&border=cc0000" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Gabrilinard&theme=dark&ring=cc0000&fire=cc0000&currStreakLabel=cc0000&sideLabels=cc0000&border=cc0000" alt="GitHub Streak"/>
 </div>
 
----
-
-## 🐍 Contribuições
-
+<!-- Snake animation no lugar do heatmap de commits -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrilinard/Gabrilinard/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabrilinard/Gabrilinard/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/Gabrilinard/Gabrilinard/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Gabrilinard/Gabrilinard/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
