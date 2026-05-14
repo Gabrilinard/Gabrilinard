@@ -1,6 +1,6 @@
 <!-- Animated header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=200&section=header&text=Olá!%20Eu%20sou%20Gabriel%20Linard&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20apaixonado%20por%20tecnologia&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=200&section=header&text=Olá!%20Eu%20sou%20Gabriel%20Linard&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20louco%20por%20tecnologia&descAlignY=55&descAlign=50" />
 </div>
 
 <!-- Typing animation -->
@@ -15,22 +15,31 @@
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-  <a href="https://github.com/Gabrilinard">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabrilinard&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=cc0000&icon_color=cc0000&border_color=cc0000"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabrilinard&layout=compact&langs_count=8&theme=dark&title_color=cc0000&border_color=cc0000"/>
-  </a>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabrilinard&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=cc0000&icon_color=cc0000&border_color=cc0000" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabrilinard&layout=compact&langs_count=8&theme=dark&title_color=cc0000&border_color=cc0000" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Gabrilinard&theme=dark&ring=cc0000&fire=cc0000&currStreakLabel=cc0000&sideLabels=cc0000&border=cc0000" alt="GitHub Streak"/>
 </div>
 
-<!-- Snake animation no lugar do heatmap de commits -->
+---
+
+## 🐍 Contribuições
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrilinard/Gabrilinard/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabrilinard/Gabrilinard/output/github-contribution-grid-snake.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Gabrilinard/Gabrilinard/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Gabrilinard/Gabrilinard/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
