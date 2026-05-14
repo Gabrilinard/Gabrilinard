@@ -1,11 +1,11 @@
 <!-- Animated header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=200&section=header&text=Olá!%20Eu%20sou%20[Seu%20Nome]&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedora%20apaixonada%20por%20tecnologia&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=200&section=header&text=Olá!%20Eu%20sou%20Gabriel%20Linard&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20apaixonado%20por%20tecnologia&descAlignY=55&descAlign=50" />
 </div>
 
 <!-- Typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=CC0000&center=true&vCenter=true&width=500&lines=Bem-vindo(a)+ao+meu+perfil!;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=CC0000&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+perfil!;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
 <br/>
