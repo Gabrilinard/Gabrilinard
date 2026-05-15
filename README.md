@@ -17,7 +17,7 @@
 ## 🚀 Languages & Technologies
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,django,postgres,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,django,postgres&theme=dark" />
 </div>
 
 ---
