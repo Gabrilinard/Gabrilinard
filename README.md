@@ -1,14 +1,14 @@
-<!-- Header com ondas animadas full width -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7a0000&height=180&section=header&fontSize=38&fontColor=ffffff&animation=fadeIn&width=100%" width="100%" />
+<!-- Header com ondas animadas - gradiente vermelho escuro e preto -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&fontSize=38&fontColor=ffffff&animation=fadeIn&width=100%" width="100%" />
 
-<!-- Texto digitando -->
+<!-- Linha de typing no topo centralizado -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7a0000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7a0000&center=true&vCenter=true&width=500&lines=Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-## Olá! Me chamo Gabriel Linard! 🧑‍💻
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=ffffff&vCenter=true&width=560&lines=Olá!+Me+chamo+Gabriel+Linard!+🧑‍💻" alt="Título animado" />
 
-`Fullstack Developer`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=2000&color=7a0000&vCenter=true&width=280&lines=Fullstack+Developer" alt="Subtítulo animado" />
 
 ---
 
@@ -40,4 +40,4 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-7a0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-linard-380458268/)
 
 <!-- Footer com ondas animadas full width -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7a0000&height=120&section=footer&width=100%" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&width=100%" width="100%" />
