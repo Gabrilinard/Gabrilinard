@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td width="200" align="center">
-      <img src="https://github.com/Gabrilinard/Gabrilinard/raw/main/avatar.jpeg" width="180" />
+      <img src="https://github.com/Gabrilinard/Gabrilinard/raw/main/avatar_animado.jpeg" width="180" />
     </td>
     <td>
       Hey! I'm Gabriel Linard, 21 years old and have been in the tech world for a few years now. I'm a Software Engineering student and work as a Fullstack Developer, as well as a big data enthusiast.
