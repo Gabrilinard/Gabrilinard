@@ -1,6 +1,8 @@
 <!-- Header com ondas - vermelho escuro para preto, com texto animado embutido -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7a0000,100:000000&height=220&section=header&animation=fadeIn&text=Olá!%20Me%20chamo%20Gabriel%20Linard!%20&fontSize=32&fontColor=ffffff&fontAlignY=40&desc=Fullstack%20Developer&descSize=20&descAlignY=60&descAlign=50&width=100%" width="100%" />
 
+Tudo bem? Sou Gabriel Linard, tenho 21 anos e estou no mundo da tecnologia há alguns anos. Sou estudante de Engenharia de Software e atuo como Desenvolvedor Fullstack, além de ser um grande entusiasta de dados.
+
 ---
 
 ## 🚀 Linguagens e Tecnologias
