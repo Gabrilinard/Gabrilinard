@@ -1,9 +1,5 @@
-<!-- Header com ondas - vermelho escuro para preto -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7a0000,100:000000&height=180&section=header&animation=fadeIn&width=100%" width="100%" />
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=ffffff&center=true&vCenter=true&multiline=true&height=100&width=700&lines=Olá!+Me+chamo+Gabriel+Linard!+🧑‍💻;Fullstack+Developer" alt="Typing SVG" />
-</div>
+<!-- Header com ondas - vermelho escuro para preto, com texto animado embutido -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7a0000,100:000000&height=220&section=header&animation=fadeIn&text=Olá!%20Me%20chamo%20Gabriel%20Linard!%20&fontSize=32&fontColor=ffffff&fontAlignY=40&desc=Fullstack%20Developer&descSize=20&descAlignY=60&descAlign=50&width=100%" width="100%" />
 
 ---
 
