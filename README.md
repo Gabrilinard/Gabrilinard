@@ -7,7 +7,7 @@
       <img src="https://github.com/Gabrilinard/Gabrilinard/raw/main/avatar.jpeg" width="180" />
     </td>
     <td>
-      Hi! My name is Gabriel Linard, I'm 21 years old and I've been in the tech world for a few years. I'm a Software Engineering student and I work as a Fullstack developer, as well as being a big data enthusiast.
+      Hi! My name is Gabriel Linard, I'm 21 years old and I've been in the tech world for quite some time. I'm a Software Engineering student and I work as a Fullstack developer, as well as being a Big Data enthusiast.
     </td>
   </tr>
 </table>
