@@ -12,17 +12,13 @@
   </tr>
 </table>
 
----
-
-## 🚀 Languages & Technologies
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e6091,100:000000&height=50&text=LANGUAGES%20%26%20TECHNOLOGIES&fontSize=16&fontColor=ffffff&fontAlignY=55&width=100%" width="100%" />
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,django,postgres&theme=dark" />
 </div>
 
----
-
-## 📊 Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e6091,100:000000&height=50&text=STATS&fontSize=16&fontColor=ffffff&fontAlignY=55&width=100%" width="100%" />
 
 <table>
   <tr>
@@ -35,9 +31,11 @@
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Gabrilinard&theme=dark&background=0D1117&border=1e6091&ring=1e6091&fire=1e6091&currStreakLabel=1e6091" />
+</div>
 
-## 🐍 Contribution Snake
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e6091,100:000000&height=50&text=CONTRIBUTION%20ACTIVITY&fontSize=16&fontColor=ffffff&fontAlignY=55&width=100%" width="100%" />
 
 <div align="center">
   <picture>
@@ -47,7 +45,7 @@
   </picture>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e6091,100:000000&height=50&text=CONNECT&fontSize=16&fontColor=ffffff&fontAlignY=55&width=100%" width="100%" />
 
 <div align="left">
 
