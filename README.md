@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="./assets/header.svg" width="100%" />
+<img src="./header.svg" width="100%" />
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&height=25&pause=1000&color=1E6091&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%7C+Software+Engineering+Student" />
 </div>
@@ -78,4 +78,4 @@
 </p>
 
 <!-- Footer -->
-<img src="./assets/footer.svg" width="100%" />
+<img src="./footer.svg" width="100%" />
