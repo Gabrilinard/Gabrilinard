@@ -1,5 +1,6 @@
 <!-- Header waves - dark red to black with animated text -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e6091,100:000000&height=220&section=header&animation=fadeIn&text=Hey!%20I%27m%20Gabriel%20Linard!%20&fontSize=32&fontColor=ffffff&fontAlignY=40&desc=Fullstack%20Developer&descSize=20&descAlignY=60&descAlign=50&width=100%" width="100%" />
+
 <table>
   <tr>
     <td width="200" align="center">
@@ -10,13 +11,19 @@
     </td>
   </tr>
 </table>
+
 ---
+
 ## 🚀 Languages & Technologies
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,django,postgres&theme=dark" />
 </div>
+
 ---
+
 ## 📊 Stats
+
 <table>
   <tr>
     <td>
@@ -27,8 +34,11 @@
     </td>
   </tr>
 </table>
+
 ---
+
 ## 🐍 Contribution Snake
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrilinard/Gabrilinard/output/github-contribution-grid-snake-dark.svg" />
@@ -36,12 +46,17 @@
     <img alt="cobrinha" src="https://raw.githubusercontent.com/Gabrilinard/Gabrilinard/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
 ---
+
 <div align="left">
+
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-1e6091?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabrilinard)
 [![Discord](https://img.shields.io/badge/DISCORD-1e6091?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gabrilinard)
 [![Gmail](https://img.shields.io/badge/GMAIL-1e6091?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielleite729@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-1e6091?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-linard-380458268/)
+
 </div>
+
 <!-- Footer waves - black to dark red -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1e6091&height=120&section=footer&width=100%" width="100%" />
