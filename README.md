@@ -1,7 +1,9 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1e6091,100:000000&height=230&section=header&animation=fadeIn&text=GABRIEL%20LINARD&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Software%20Engineering%20Student&descSize=17&descAlignY=58&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1e6091,100:000000&height=230&section=header&animation=fadeIn&text=GABRIEL%20LINARD&fontSize=42&fontColor=ffffff&fontAlignY=38" width="100%" />
 
-<br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=1E6091&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%7C+Software+Engineering+Student" />
+</div>
 
 <!-- About -->
 <table align="center" width="100%">
