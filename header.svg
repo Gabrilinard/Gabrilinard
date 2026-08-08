@@ -1,0 +1,15 @@
+<svg width="1200" height="190" viewBox="0 0 1200 190" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2f7db3"/>
+      <stop offset="100%" stop-color="#0d1b2a"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,0 L1200,0 L1200,120 C917,175 282,75 0,120 Z" fill="url(#headerGrad)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="1.4s" begin="0s" fill="freeze"/>
+  </path>
+  <text x="600" y="80" text-anchor="middle" font-size="46" font-weight="700" fill="#ffffff" font-family="Verdana, Arial, sans-serif" opacity="0">
+    Hey, I'm Gabriel Linard
+    <animate attributeName="opacity" from="0" to="1" dur="1.4s" begin="0.3s" fill="freeze"/>
+  </text>
+</svg>
