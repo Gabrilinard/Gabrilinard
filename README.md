@@ -8,12 +8,12 @@
 <br>
 
 <!-- About -->
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td width="190" align="center">
       <img src="https://github.com/Gabrilinard/Gabrilinard/raw/main/avatar_animado.jpeg" width="170" style="border-radius: 12px; border: 2px solid #1e6091;" />
     </td>
-    <td align="left">
+    <td>
       <p>
         21 years old, based in Brazil, building things at the intersection of software engineering and data.
         Currently working as a Fullstack Developer and studying Software Engineering, with a growing focus
@@ -23,25 +23,17 @@
   </tr>
 </table>
 
-<br><br>
+<br>
 
-<!-- STACK -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e6091,100:0d1b2a&height=55&section=header&text=STACK&fontSize=20&fontColor=ffffff&fontAlignY=55&width=320" width="320" align="left" />
-
-<br clear="left">
-<sub><i>Tools and technologies I work with most often</i></sub>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=1e6091&height=60&section=header&text=STACK&fontSize=22&fontColor=ffffff&fontAlignY=55&width=100%" width="100%" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,django,postgres&theme=dark" />
 </p>
 
-<br><br>
+<br>
 
-<!-- STATISTICS -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e6091,100:0d1b2a&height=55&section=header&text=STATISTICS&fontSize=20&fontColor=ffffff&fontAlignY=55&width=320" width="320" align="left" />
-
-<br clear="left">
-<sub><i>A snapshot of my activity across GitHub</i></sub>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=1e6091&height=60&section=header&text=STATISTICS&fontSize=22&fontColor=ffffff&fontAlignY=55&width=100%" width="100%" />
 
 <p align="center">
   <img src="https://github-readme-stats-self-nu-70.vercel.app/api?username=Gabrilinard&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=1e6091&icon_color=1e6091&border_color=1e6091&text_color=ffffff&bg_color=0d1117&ring_color=1e6091" height="165" />
@@ -51,13 +43,9 @@
   <img src="https://streak-stats.demolab.com/?user=Gabrilinard&theme=dark&background=0D1117&border=1e6091&ring=1e6091&fire=1e6091&currStreakLabel=1e6091" />
 </p>
 
-<br><br>
+<br>
 
-<!-- CONTRIBUTION ACTIVITY -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e6091,100:0d1b2a&height=55&section=header&text=CONTRIBUTION%20ACTIVITY&fontSize=20&fontColor=ffffff&fontAlignY=55&width=420" width="420" align="left" />
-
-<br clear="left">
-<sub><i>Commit history, visualized</i></sub>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=1e6091&height=60&section=header&text=CONTRIBUTION%20ACTIVITY&fontSize=22&fontColor=ffffff&fontAlignY=55&width=100%" width="100%" />
 
 <p align="center">
   <picture>
@@ -67,15 +55,11 @@
   </picture>
 </p>
 
-<br><br>
+<br>
 
-<!-- CONNECT -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e6091,100:0d1b2a&height=55&section=header&text=CONNECT&fontSize=20&fontColor=ffffff&fontAlignY=55&width=320" width="320" align="left" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=1e6091&height=60&section=header&text=CONNECT&fontSize=22&fontColor=ffffff&fontAlignY=55&width=100%" width="100%" />
 
-<br clear="left">
-<sub><i>Let's talk</i></sub>
-
-<div align="left">
+<p align="center">
   <a href="https://instagram.com/gabrilinard">
     <img src="https://img.shields.io/badge/Instagram-0d1b2a?style=for-the-badge&logo=instagram&logoColor=1e6091" />
   </a>
@@ -88,9 +72,7 @@
   <a href="https://www.linkedin.com/in/gabriel-linard-380458268/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=1e6091" />
   </a>
-</div>
-
-<br>
+</p>
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1e6091,100:0d1b2a&height=150&section=footer" width="100%" />
