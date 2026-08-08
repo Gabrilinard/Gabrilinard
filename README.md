@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1e6091,100:000000&height=210&section=header&animation=fadeIn&text=Hey%2C%20I%27m%20Gabriel%20Linard&fontSize=42&fontColor=ffffff&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1e6091,100:000000&height=190&section=header&animation=fadeIn&text=Hey%2C%20I%27m%20Gabriel%20Linard&fontSize=42&fontColor=ffffff&fontAlignY=38" width="100%" />
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&height=20&pause=1000&color=1E6091&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%7C+Software+Engineering+Student" />
 </div>
