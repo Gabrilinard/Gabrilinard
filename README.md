@@ -12,13 +12,17 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e6091,100:000000&height=90&text=LANGUAGES%20%26%20TECHNOLOGIES&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%" />
+<br>
+
+![Languages & Technologies](https://img.shields.io/badge/LANGUAGES%20%26%20TECHNOLOGIES-1e6091?style=for-the-badge)
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,django,postgres&theme=dark" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e6091,100:000000&height=90&text=STATS&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%" />
+<br>
+
+![Stats](https://img.shields.io/badge/STATS-1e6091?style=for-the-badge)
 
 <table>
   <tr>
@@ -35,7 +39,9 @@
   <img src="https://streak-stats.demolab.com/?user=Gabrilinard&theme=dark&background=0D1117&border=1e6091&ring=1e6091&fire=1e6091&currStreakLabel=1e6091" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e6091,100:000000&height=90&text=CONTRIBUTION%20ACTIVITY&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%" />
+<br>
+
+![Contribution Activity](https://img.shields.io/badge/CONTRIBUTION%20ACTIVITY-1e6091?style=for-the-badge)
 
 <div align="center">
   <picture>
@@ -45,7 +51,9 @@
   </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e6091,100:000000&height=90&text=CONNECT&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%" />
+<br>
+
+![Connect](https://img.shields.io/badge/CONNECT-1e6091?style=for-the-badge)
 
 <div align="left">
 
