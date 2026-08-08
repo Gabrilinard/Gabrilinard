@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,35:1e6091,100:000000&height=170&section=header&animation=fadeIn&text=Hey%2C%20I%27m%20Gabriel%20Linard&fontSize=42&fontColor=ffffff&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,70:0d1b2a,100:1e6091&height=170&section=header&animation=fadeIn&text=Hey%2C%20I%27m%20Gabriel%20Linard&fontSize=42&fontColor=ffffff&fontAlignY=38" width="100%" />
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&height=25&pause=1000&color=1E6091&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%7C+Software+Engineering+Student" />
 </div>
@@ -78,4 +78,4 @@
 </p>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e6091,60:0d1b2a,100:0d1b2a&height=150&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e6091,30:0d1b2a,100:0d1b2a&height=150&section=footer" width="100%" />
