@@ -1,9 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1e6091,100:000000&height=260&section=header&animation=fadeIn&text=GABRIEL%20LINARD&fontSize=42&fontColor=ffffff&fontAlignY=30" width="100%" />
-
-<p align="center" style="margin-top: -95px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E8F1FA&background=00000000&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%7C+Software+Engineering+Student" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1e6091,100:000000&height=230&section=header&animation=fadeIn&text=GABRIEL%20LINARD&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Software%20Engineering%20Student&descSize=17&descAlignY=58&descAlign=50" width="100%" />
 
 <br>
 
@@ -81,4 +77,4 @@
 </p>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1e6091,100:0d1b2a&height=150&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e6091,100:0d1b2a&height=150&section=footer" width="100%" />
