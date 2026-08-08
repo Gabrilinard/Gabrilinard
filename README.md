@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=1E6091&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Fullstack+Developer;Big+Data+Enthusiast" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=1e6091&height=2&section=header&width=100%" width="100%" />
+<br>
 
 <!-- About -->
 <table align="center" width="100%">
@@ -25,7 +25,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=1e6091&height=60&section=header&text=STACK&fontSize=24&fontColor=1e6091&fontAlignY=70&width=100%" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=1e6091&height=60&section=header&text=STACK&fontSize=22&fontColor=ffffff&fontAlignY=55&width=100%" width="100%" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,django,postgres&theme=dark" />
@@ -33,7 +33,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=1e6091&height=60&section=header&text=STATISTICS&fontSize=24&fontColor=1e6091&fontAlignY=70&width=100%" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=1e6091&height=60&section=header&text=STATISTICS&fontSize=22&fontColor=ffffff&fontAlignY=55&width=100%" width="100%" />
 
 <p align="center">
   <img src="https://github-readme-stats-self-nu-70.vercel.app/api?username=Gabrilinard&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=1e6091&icon_color=1e6091&border_color=1e6091&text_color=ffffff&bg_color=0d1117&ring_color=1e6091" height="165" />
@@ -45,7 +45,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=1e6091&height=60&section=header&text=CONTRIBUTION%20ACTIVITY&fontSize=24&fontColor=1e6091&fontAlignY=70&width=100%" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=1e6091&height=60&section=header&text=CONTRIBUTION%20ACTIVITY&fontSize=22&fontColor=ffffff&fontAlignY=55&width=100%" width="100%" />
 
 <p align="center">
   <picture>
@@ -57,7 +57,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=1e6091&height=60&section=header&text=CONNECT&fontSize=24&fontColor=1e6091&fontAlignY=70&width=100%" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=1e6091&height=60&section=header&text=CONNECT&fontSize=22&fontColor=ffffff&fontAlignY=55&width=100%" width="100%" />
 
 <p align="center">
   <a href="https://instagram.com/gabrilinard">
