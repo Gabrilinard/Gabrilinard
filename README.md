@@ -27,10 +27,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabrilinard&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=1e6091&icon_color=1e6091&border_color=1e6091&text_color=ffffff&bg_color=0d1117&ring_color=1e6091" />
+      <img src="https://github-readme-stats-self-nu-70.vercel.app/api?username=Gabrilinard&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=1e6091&icon_color=1e6091&border_color=1e6091&text_color=ffffff&bg_color=0d1117&ring_color=1e6091" />
     </td>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabrilinard&layout=compact&langs_count=8&theme=dark&title_color=1e6091&border_color=1e6091&text_color=ffffff&bg_color=0d1117" />
+      <img src="https://github-readme-stats-self-nu-70.vercel.app/api/top-langs/?username=Gabrilinard&layout=compact&langs_count=8&theme=dark&title_color=1e6091&border_color=1e6091&text_color=ffffff&bg_color=0d1117" />
     </td>
   </tr>
 </table>
