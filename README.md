@@ -1,5 +1,5 @@
 <!-- Header waves - dark red to black with animated text -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e6091,100:000000&height=220&section=header&animation=fadeIn&text=Hey!%20I%27m%20Gabriel%20Linard!%20&fontSize=32&fontColor=ffffff&fontAlignY=40&desc=Fullstack%20Developer&descSize=20&descAlignY=60&descAlign=50&width=100%" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e6091,100:000000&height=220&section=header&animation=fadeIn&text=Hey!%20I%27m%20Gabriel%20Linard!%20&fontSize=32&fontColor=ffffff&fontAlignY=40&desc=Fullstack%20Developer&descSize=20&descAlignY=60&descAlign=50" width="100%" />
 
 <table>
   <tr>
@@ -12,13 +12,13 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e6091,100:000000&height=50&text=LANGUAGES%20%26%20TECHNOLOGIES&fontSize=16&fontColor=ffffff&fontAlignY=55&width=100%" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e6091,100:000000&height=90&text=LANGUAGES%20%26%20TECHNOLOGIES&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%" />
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,django,postgres&theme=dark" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e6091,100:000000&height=50&text=STATS&fontSize=16&fontColor=ffffff&fontAlignY=55&width=100%" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e6091,100:000000&height=90&text=STATS&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%" />
 
 <table>
   <tr>
@@ -35,7 +35,7 @@
   <img src="https://streak-stats.demolab.com/?user=Gabrilinard&theme=dark&background=0D1117&border=1e6091&ring=1e6091&fire=1e6091&currStreakLabel=1e6091" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e6091,100:000000&height=50&text=CONTRIBUTION%20ACTIVITY&fontSize=16&fontColor=ffffff&fontAlignY=55&width=100%" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e6091,100:000000&height=90&text=CONTRIBUTION%20ACTIVITY&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%" />
 
 <div align="center">
   <picture>
@@ -45,7 +45,7 @@
   </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e6091,100:000000&height=50&text=CONNECT&fontSize=16&fontColor=ffffff&fontAlignY=55&width=100%" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e6091,100:000000&height=90&text=CONNECT&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%" />
 
 <div align="left">
 
@@ -57,4 +57,4 @@
 </div>
 
 <!-- Footer waves - black to dark red -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1e6091&height=120&section=footer&width=100%" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1e6091&height=120&section=footer" width="100%" />
