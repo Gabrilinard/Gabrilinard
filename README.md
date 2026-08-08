@@ -8,12 +8,12 @@
 <br>
 
 <!-- About -->
-<table align="center" width="100%">
+<table width="100%">
   <tr>
     <td width="190" align="center">
       <img src="https://github.com/Gabrilinard/Gabrilinard/raw/main/avatar_animado.jpeg" width="170" style="border-radius: 12px; border: 2px solid #1e6091;" />
     </td>
-    <td>
+    <td align="left">
       <p>
         21 years old, based in Brazil, building things at the intersection of software engineering and data.
         Currently working as a Fullstack Developer and studying Software Engineering, with a growing focus
@@ -25,41 +25,53 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=1e6091&height=60&section=header&text=STACK&fontSize=22&fontColor=ffffff&fontAlignY=55&width=100%" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e6091,100:0d1b2a&height=55&section=header&text=STACK&fontSize=20&fontColor=ffffff&fontAlignY=55&width=320" width="320" align="left" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,django,postgres&theme=dark" />
-</p>
-
+<br clear="left">
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=1e6091&height=60&section=header&text=STATISTICS&fontSize=22&fontColor=ffffff&fontAlignY=55&width=100%" width="100%" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,django,postgres&theme=dark" />
+</div>
 
-<p align="center">
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e6091,100:0d1b2a&height=55&section=header&text=STATISTICS&fontSize=20&fontColor=ffffff&fontAlignY=55&width=320" width="320" align="left" />
+
+<br clear="left">
+<br>
+
+<div align="left">
   <img src="https://github-readme-stats-self-nu-70.vercel.app/api?username=Gabrilinard&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=1e6091&icon_color=1e6091&border_color=1e6091&text_color=ffffff&bg_color=0d1117&ring_color=1e6091" height="165" />
   <img src="https://github-readme-stats-self-nu-70.vercel.app/api/top-langs/?username=Gabrilinard&layout=compact&langs_count=8&theme=dark&title_color=1e6091&border_color=1e6091&text_color=ffffff&bg_color=0d1117" height="165" />
-</p>
-<p align="center">
+</div>
+<div align="left">
   <img src="https://streak-stats.demolab.com/?user=Gabrilinard&theme=dark&background=0D1117&border=1e6091&ring=1e6091&fire=1e6091&currStreakLabel=1e6091" />
-</p>
+</div>
 
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e6091,100:0d1b2a&height=55&section=header&text=CONTRIBUTION%20ACTIVITY&fontSize=20&fontColor=ffffff&fontAlignY=55&width=420" width="420" align="left" />
+
+<br clear="left">
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=1e6091&height=60&section=header&text=CONTRIBUTION%20ACTIVITY&fontSize=22&fontColor=ffffff&fontAlignY=55&width=100%" width="100%" />
-
-<p align="center">
+<div align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrilinard/Gabrilinard/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabrilinard/Gabrilinard/output/github-contribution-grid-snake.svg" />
     <img alt="contribution snake" src="https://raw.githubusercontent.com/Gabrilinard/Gabrilinard/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
+</div>
 
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e6091,100:0d1b2a&height=55&section=header&text=CONNECT&fontSize=20&fontColor=ffffff&fontAlignY=55&width=320" width="320" align="left" />
+
+<br clear="left">
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=1e6091&height=60&section=header&text=CONNECT&fontSize=22&fontColor=ffffff&fontAlignY=55&width=100%" width="100%" />
-
-<p align="center">
+<div align="left">
   <a href="https://instagram.com/gabrilinard">
     <img src="https://img.shields.io/badge/Instagram-0d1b2a?style=for-the-badge&logo=instagram&logoColor=1e6091" />
   </a>
@@ -72,7 +84,9 @@
   <a href="https://www.linkedin.com/in/gabriel-linard-380458268/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=1e6091" />
   </a>
-</p>
+</div>
+
+<br>
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1e6091,100:0d1b2a&height=150&section=footer" width="100%" />
