@@ -1,8 +1,8 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1e6091,100:000000&height=230&section=header&animation=fadeIn&text=GABRIEL%20LINARD&fontSize=42&fontColor=ffffff&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1e6091,100:000000&height=260&section=header&animation=fadeIn&text=GABRIEL%20LINARD&fontSize=42&fontColor=ffffff&fontAlignY=30" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1E6091&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%7C+Software+Engineering+Student" />
+<p align="center" style="margin-top: -95px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E8F1FA&background=00000000&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%7C+Software+Engineering+Student" />
 </p>
 
 <br>
@@ -25,7 +25,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=1e6091&height=60&section=header&text=STACK&fontSize=22&fontColor=ffffff&fontAlignY=55&width=100%" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e6091,100:0d1b2a&height=60&section=header&text=STACK&fontSize=22&fontColor=ffffff&fontAlignY=55&width=100%" width="100%" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,django,postgres&theme=dark" />
@@ -33,7 +33,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=1e6091&height=60&section=header&text=STATISTICS&fontSize=22&fontColor=ffffff&fontAlignY=55&width=100%" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e6091,100:0d1b2a&height=60&section=header&text=STATISTICS&fontSize=22&fontColor=ffffff&fontAlignY=55&width=100%" width="100%" />
 
 <p align="center">
   <img src="https://github-readme-stats-self-nu-70.vercel.app/api?username=Gabrilinard&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=1e6091&icon_color=1e6091&border_color=1e6091&text_color=ffffff&bg_color=0d1117&ring_color=1e6091" height="165" />
@@ -45,7 +45,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=1e6091&height=60&section=header&text=CONTRIBUTION%20ACTIVITY&fontSize=22&fontColor=ffffff&fontAlignY=55&width=100%" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e6091,100:0d1b2a&height=60&section=header&text=CONTRIBUTION%20ACTIVITY&fontSize=22&fontColor=ffffff&fontAlignY=55&width=100%" width="100%" />
 
 <p align="center">
   <picture>
@@ -57,7 +57,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=1e6091&height=60&section=header&text=CONNECT&fontSize=22&fontColor=ffffff&fontAlignY=55&width=100%" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e6091,100:0d1b2a&height=60&section=header&text=CONNECT&fontSize=22&fontColor=ffffff&fontAlignY=55&width=100%" width="100%" />
 
 <p align="center">
   <a href="https://instagram.com/gabrilinard">
@@ -72,6 +72,12 @@
   <a href="https://www.linkedin.com/in/gabriel-linard-380458268/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=1e6091" />
   </a>
+</p>
+
+<br>
+
+<p align="center">
+  <sub>Thanks for stopping by — always open to a good conversation about code, data, or new ideas.</sub>
 </p>
 
 <!-- Footer -->
