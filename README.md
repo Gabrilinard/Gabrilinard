@@ -14,7 +14,7 @@
       <p>
         Hey, I'm Gabriel Linard. 21 years old, based in Brazil, building things at the intersection of
         software engineering and data. Currently working as a Fullstack Developer and studying Software
-        Engineering, with a growing focus on Big Data and applied AI.
+        Engineering, with a growing focus on Big Data and applied AI. My portfolio: https://storied-mermaid-1e7e41.netlify.app/
       </p>
     </td>
   </tr>
