@@ -36,9 +36,6 @@
   <img src="https://github-readme-stats-self-nu-70.vercel.app/api?username=Gabrilinard&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=1e6091&icon_color=1e6091&border_color=1e6091&text_color=ffffff&bg_color=0d1117&ring_color=1e6091" height="165" />
   <img src="https://github-readme-stats-self-nu-70.vercel.app/api/top-langs/?username=Gabrilinard&layout=compact&langs_count=8&theme=dark&title_color=1e6091&border_color=1e6091&text_color=ffffff&bg_color=0d1117" height="165" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats-eta-teal.vercel.app/?user=Gabrilinard&theme=dark&background=0D1117&border=1e6091&ring=1e6091&fire=1e6091&currStreakLabel=1e6091" />
-</p>
 
 <br>
 
