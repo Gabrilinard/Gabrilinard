@@ -37,7 +37,7 @@
   <img src="https://github-readme-stats-self-nu-70.vercel.app/api/top-langs/?username=Gabrilinard&layout=compact&langs_count=8&theme=dark&title_color=1e6091&border_color=1e6091&text_color=ffffff&bg_color=0d1117" height="165" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Gabrilinard&theme=dark&background=0D1117&border=1e6091&ring=1e6091&fire=1e6091&currStreakLabel=1e6091" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrilinard&theme=dark&background=0D1117&border=1e6091&ring=1e6091&fire=1e6091&currStreakLabel=1e6091&cache_seconds=0" />
 </p>
 
 <br>
